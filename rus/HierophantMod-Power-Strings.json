@@ -1,0 +1,74 @@
+{
+"hierophant:PietyPower": {
+        "NAME": "Покаяние",
+        "DESCRIPTIONS": ["В конце вашего хода, побеждает ВСЕХ врагов с ОЗ, равными или меньшими #b", " , после чего уменьшится на треть."]
+},
+"hierophant:PietyBarPower": {
+        "NAME": "Шкала Покаяния",
+        "DESCRIPTIONS": ["."]
+},
+"hierophant:EndurePower": {
+        "NAME": "Превозмогание",
+        "DESCRIPTIONS": ["Даёт #b", " #yПокаяния, когда вас атакуют в этом ходу."]
+},
+"hierophant:AuricFormPower": {
+        "NAME": "Облик ауроманта",
+        "DESCRIPTIONS": ["В начале каждого вашего хода, отнимает #b", "% вашего золота, и даёт столько же #yПылкости и #yПокаяния."]
+},
+"hierophant:GenerosityPower": {
+        "NAME": "Щедрость",
+        "DESCRIPTIONS": ["Когда разыгрывается #yДублон, вы берёте #b", " доп. карту.", " доп. карт."]
+},
+"hierophant:GlossolaliaPower": {
+        "NAME": "Пустословие",
+        "DESCRIPTIONS": ["Когда вы берёте карту, NL даёт #yПылкость, равную её стоимости."]
+},
+"hierophant:CursedGoldPower": {
+        "NAME": "Проклятое золото",
+        "DESCRIPTIONS": ["В начале вашего хода, вы кладёте #b", " #yДублон из стопки сожжённых карт в стопку сброса.", " #yДублонов из стопки сожжённых карт в стопку сброса."]
+},
+"hierophant:MartyrdomPower": {
+        "NAME": "Мученичество",
+        "DESCRIPTIONS": ["Когда вы берёте Статус, даёт #b", " #yПылкости." ]
+},
+"hierophant:EmbezzlePower": {
+        "NAME": "Расточительность",
+        "DESCRIPTIONS": ["Вы получили #b", " золота. Отнимет всё непотраченное золото из полученного в конце боя."]
+},
+"hierophant:CharityPower": {
+        "NAME": "Пожертвование",
+        "DESCRIPTIONS": ["Когда разыгрывается #yДублон, даёт #b", " #yПокаяния."]
+},
+"hierophant:RefugePower": {
+        "NAME": "Приют",
+        "DESCRIPTIONS": ["Когда берётся #yДублон, даёт #b", " #yЗащиты ВСЕМ."]
+},
+"hierophant:ArchangelShieldPower": {
+        "NAME": "Щит архангела",
+        "DESCRIPTIONS": ["Когда потребляется #yПылкость, даёт столько же #yЗащиты."]
+},
+"hierophant:CommunityPower": {
+        "NAME": "Единение",
+        "DESCRIPTIONS": ["Когда враги получают #yЗащиту, даёт столько же #yЗащиты."]
+},
+"hierophant:DeterminationPower": {
+        "NAME": "Решительность",
+        "DESCRIPTIONS": ["Когда вы побеждаете врага, восполняет вам треть его остающихс ОЗ."]
+},
+"hierophant:EnlightenedPower": {
+        "NAME": "Просвещение",
+        "DESCRIPTIONS": ["Повышает получаемое #yПокаяние на #b50% в течении #b", " хода.", " ходов."]
+},
+"hierophant:RepentancePower": {
+        "NAME": "Таинство",
+        "DESCRIPTIONS": ["В конце #b", " хода, даёт удвоенное #yПокаяние, которое вы должны были потерять.", " ходов, даёт удвоенное #yПокаяние, которое вы должны были потерять."]
+},
+"hierophant:FervorPower": {
+        "NAME": "Пылкость",
+        "DESCRIPTIONS": ["След. разыгранная в этом ходу атака наносит на #b", "0% больше урона."]
+},
+"hierophant:DeathKnellPower": {
+        "NAME": "Дурное знамение",
+        "DESCRIPTIONS": ["Ваши атаки не наносят урона в течении #b"," ходов."]
+}
+}

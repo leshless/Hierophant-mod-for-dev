@@ -1,0 +1,23 @@
+{
+  "hierophant:DonationBoxRelic": {
+    "NAME": "Ящик для пожертвований",
+    "FLAVOR": "Бедняку не выбирать.",
+    "DESCRIPTIONS": [
+      "В конце боя, если у вас меньше #b80 золота, даёт его требуемое число, что бы набрать #b80."
+    ]
+  },
+  "hierophant:PropheticMaskRelic": {
+    "NAME": "Маска жреца",
+    "FLAVOR": "Сделано на небесах.",
+    "DESCRIPTIONS": [
+      "В конце вашего хода, cамая дорогая карта в руке #yОставляется. (При равенстве цен выбирается случайно)"
+    ]
+  },
+  "hierophant:BeggarsRobeRelic": {
+    "NAME": "Beggar's Robe",
+    "FLAVOR": "... Perhaps they can?",
+    "DESCRIPTIONS": [
+      "When you have less than 10 gold, gain +4 Strength and +4 Dexterity."
+    ]
+  }
+}

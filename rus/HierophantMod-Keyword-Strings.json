@@ -1,0 +1,68 @@
+[
+  {
+  	"PROPER_NAME": "Стяжание",
+    "NAMES": [
+      "стяжание", 
+      "стяжает"
+    ],
+    "DESCRIPTION": "Даёт указанное число золота в конце боя, если данная карта не находится в стопке сожжёных карт."
+  },
+  {
+    "NAMES": [
+      "vaw",
+      "vaws"
+    ],
+    "DESCRIPTION": "Special Power that imposes a restriction in exchange for an advantage."
+  },
+  {
+  	"PROPER_NAME": "Оброк",
+    "NAMES": [
+      "оброк",
+      "оброчная"
+    ],
+    "DESCRIPTION": "Если у вас недостаточно энергии на разыгрывание этой карты, может быть частично или полностью оплачена золотом, из расчёта #b10 золота за каждую недостающую [E] "
+  },
+  {
+  	"PROPER_NAME": "Сверкающая",
+    "NAMES": [
+      "сверкающая"
+    ],
+    "DESCRIPTION": "При получении этой карты, вы также навсегда добавите в колоду Дублон."
+  },
+  {
+  	"PROPER_NAME": "Пылкость",
+    "NAMES": [
+      "пылкость",
+      "пылкости"
+    ],
+    "DESCRIPTION": "След. разыгранная в течении хода атака наносит на #b10% больше урона за каждую единицу и потребляет всю Пылкость."
+  },
+  {
+  	"PROPER_NAME": "Просвещение",
+    "NAMES": [
+      "просвещение",
+      "просвещения"
+    ],
+    "DESCRIPTION": "Вы получаете на #b50% больше #yПокаяния."
+  },
+  {
+  	"PROPER_NAME": "Покаяние",
+    "NAMES": [
+      "покаяние",
+      "покаяния",
+      "покаянию"
+    ],
+    "DESCRIPTION": "В конце вашего хода, побеждает ВСЕХ врагов с ОЗ, равными или меньшими Покаянию, после чего снижается на треть."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  }
+]

@@ -1,0 +1,342 @@
+{
+  "hierophant:Blessing": {
+    "NAME": "Благословение",
+    "DESCRIPTION": "Восполняет !M! ОЗ ВСЕМ. NL Сжигается."
+  },
+  "hierophant:Doubloon": {
+    "NAME": "Дублон",
+    "DESCRIPTION": "Вы берёте 1 карту. NL Потребляет 4 золота. NL hierophant:Стяжает !M!. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Вы берёте 1 карту. NL hierophant:Стяжает !M!. NL Сжигается."
+  },
+  "hierophant:DivineIntervention": {
+    "NAME": "Божий промысел",
+    "DESCRIPTION": "Восполняет !M! ОЗ врагу. NL Даёт 2 hierophant:Покаяния за каждую единицу восполненных ОЗ."
+  },
+  "hierophant:Strike_Hierophant": {
+    "NAME": "Удар",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "hierophant:Defend_Hierophant": {
+    "NAME": "Оборона",
+    "DESCRIPTION": "Даёт !B! Защиты."
+  },
+  "hierophant:MorningPrayer": {
+    "NAME": "Приветствие солнца",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! hierophant:Просвещения."
+  },
+  "hierophant:HolyVerse": {
+    "NAME": "Священное писание",
+    "DESCRIPTION": "Даёт !hierophant:P! hierophant:Покаяния."
+  },
+  "hierophant:ConvertCurrency": {
+    "NAME": "Распределение",
+    "DESCRIPTION": "Сжигает карту в руке. NL Даёт [E] NL Даёт ещё [E] [E] , если вы сожгли *Дублон. NL hierophant:Сверкающая.",
+    "UPGRADE_DESCRIPTION": "Сжигает карту в руке. NL Даёт [E] [E] NL Даёт ещё [E] [E] , если вы сожгли *Дублон. NL hierophant:Сверкающая."
+  },
+  "hierophant:RecallFunds": {
+    "NAME": "Возврат средств",
+    "DESCRIPTION": "Вы кладёте !M! *Дублонов из стопки сожжённых карт в руку. NL Сжигается. NL hierophant:Сверкающая."
+  },
+  "hierophant:Dazzle": {
+    "NAME": "Блеск сокровищ",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даваемая этой картой Защита повышается на !M! за каждый *Дублон в руке. NL hierophant:Сверкающая."
+  },
+  "hierophant:Embezzle": {
+    "NAME": "Расточительность",
+    "DESCRIPTION": "Даёт !M! золота. NL В конце боя, отнимает всё полученное от этой карты золото, которое не было потрачено. NL Сжигается."
+  },
+  "hierophant:Shelter": {
+    "NAME": "Кров",
+    "DESCRIPTION": "Даёт !B! Защиты ВСЕМ."
+  },
+  "hierophant:Rebuild": {
+    "NAME": "Реконструкция",
+    "DESCRIPTION": "ВСЕ теряют всю Защиту. NL Даёт !B! Защиты ВСЕМ."
+  },
+  "hierophant:Encroach": {
+    "NAME": "Повергнуть",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Вы берёте !M! карты, если хотя бы у одного врага есть Защита."
+  },
+  "hierophant:MirrorShield": {
+    "NAME": "Витражная эгида",
+    "DESCRIPTION": "Даёт Защиту, равную Защите врага.",
+    "UPGRADE_DESCRIPTION": "Даёт Защиту, равную Защите врага. NL Вы берёте 1 карту."
+  },
+  "hierophant:ChurchCoffers": {
+    "NAME": "Церковная казна",
+    "DESCRIPTION": "Вы берёте !M! карты. NL Даёт [E] [E]. NL hierophant:Оброчная.",
+    "UPGRADE_DESCRIPTION": "Вы берёте !M! карты. NL Даёт [E] [E] [E]. NL hierophant:Оброчная."
+  },
+  "hierophant:Invocation": {
+    "NAME": "Воспеть",
+    "DESCRIPTION": "Даёт [E] [E] [E] NL [E] [E] [E]. NL hierophant:Оброчная.",
+    "UPGRADE_DESCRIPTION": "Даёт [E] [E] [E] [E] NL [E] [E] [E] [E]. NL hierophant:Оброчная."
+  },
+  "hierophant:FaithHealing": {
+    "NAME": "Духовное целение",
+    "DESCRIPTION": "Сжигает все Статусы и Проклятия в руке. NL Даёт !hierophant:P! hierophant:Покаяния за каждую Сожжённую карту."
+  },
+  "hierophant:Bribe": {
+    "NAME": "Подкуп",
+    "DESCRIPTION": "NL ВСЕ враги теряют !M! Силы. NL hierophant:Оброчная. NL Сжигается."
+  },
+  "hierophant:Flagellation": {
+    "NAME": "Самобичевание",
+    "DESCRIPTION": "Добавляет 2 Раны в руку. NL Даёт !hierophant:P! hierophant:Покаяния."
+  },
+  "hierophant:PristineSoul": {
+    "NAME": "Девственная душа",
+    "DESCRIPTION": "Даёт !hierophant:P! hierophant:Покаяния. NL Даёт Защиту, равную вашему hierophant:Покаянию. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Даёт !hierophant:P! hierophant:Покаяния. NL Даёт Защиту, равную вашему hierophant:Покаянию."
+  },
+  "hierophant:Doomsaying": {
+    "NAME":"Неизбежный рок",
+    "DESCRIPTION": "Даёт энергию, равную цене самой дорогой карты из !M! верхних карт стопки добора."
+  },
+  "hierophant:Prophecy": {
+    "NAME":"Пророчество",
+    "DESCRIPTION": "Разыграйте самую дорогую карту из X верхних карт стопки добора.",
+    "UPGRADE_DESCRIPTION": "Разыграйте самую дорогую карту из X+1 верхних карт стопки добора."
+  },
+  "hierophant:Repentance": {
+    "NAME":"Таинство",
+    "DESCRIPTION": "В конце этого хода, вместо уменьшения hierophant:Покаяния, даёт его удвоенное число, которое вы должны были потерять. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "В конце этого хода, вместо уменьшения hierophant:Покаяния, даёт его удвоенное число, которое вы должны были потерять"
+  },
+  "hierophant:SecretStash": {
+    "NAME":"Тайный схрон",
+    "DESCRIPTION": "Эфирная. NL hierophant:Стяжает !M!."
+  },
+  "hierophant:BulkyChest": {
+    "NAME":"Увесистый сундук",
+    "DESCRIPTION": "Неиграбельная. NL Вы теряете [E] , когда берёте эту карту. NL hierophant:Стяжает !M!.",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу разыграть эту карту."
+    ]
+  },
+  "hierophant:RustyCrate": {
+    "NAME":"Ржавый ящик",
+    "DESCRIPTION": "Неиграбельная. NL hierophant:Стяжает !M!. NL hierophant:Сверкающая 2.",
+    "EXTENDED_DESCRIPTION": [
+      "Я не могу разыграть эту карту."
+    ]
+  },
+  "hierophant:Cornucopia": {
+    "NAME":"Рог изобилия",
+    "DESCRIPTION": "Добавляет X+1 *Дублонов в руку. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Добавляет X+1 Улучшенных *Дублонов в руку. NL Сжигается."
+  },
+  "hierophant:Endure": {
+    "NAME":"Превозмочь",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Даёт !M! hierophant:Покаяния, когда вас атакуют в этом ходу."
+  },
+  "hierophant:Levitation": {
+    "NAME":"Левитация",
+    "DESCRIPTION": "Даёт !M! Неосязаемости. NL hierophant:Оброчная. NL Сжигается."
+  },
+  "hierophant:TollTheBells": {
+    "NAME":"Перезвон",
+    "DESCRIPTION": "Даёт [E] [E]. NL Даёт 2 hierophant:Просвещения. NL Замешивает 2 карты Головокружение в стопку добора."
+  },
+  "hierophant:Racketeering": {
+    "NAME":"Вымогательство",
+    "DESCRIPTION": "Даёт !M! Защиты врагу. Вы берёте 1 карту за каждые 5 Защиты на этом враге. NL Сжигается."
+  },
+  "hierophant:HammerAndAnvil": {
+    "NAME":"Молот и наковальня",
+    "DESCRIPTION": "Даёт !M! Защиты врагу. NL Даёт !M! hierophant:Пылкости. NL Даёт удвоенную hierophant:Пылкость, если у врага уже была Защита."
+  },
+  "hierophant:Alms": {
+    "NAME":"Поборы",
+    "DESCRIPTION": "Вы сбрасываете все карты и берёте число карт, равное суммарной стоимости сброшенных. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Вы берёте число карт, равное суммарной стоимости карт в вашей руке. NL Сжигается."
+  },
+  "hierophant:Martyrdom": {
+    "NAME":"Мученичество",
+    "DESCRIPTION": "Замешивает три Раны в стопку добора. NL Даёт !M! hierophant:Пылкости каждый раз, когда вы берёте Статус."
+  },
+  "hierophant:Generosity": {
+    "NAME":"Щедрость",
+    "DESCRIPTION": "Вы берёте доп. карту, когда разыгрываете *Дублон. NL hierophant:Сверкающая."
+  },
+  "hierophant:Glossolalia": {
+    "NAME":"Ахинея",
+    "DESCRIPTION": "Когда вы берёте карту, даёт hierophant:Пылкость, равную её стоимости."
+  },
+  "hierophant:Charity": {
+    "NAME":"Пожертвование",
+    "DESCRIPTION": "Даёт !M! hierophant:Покаяния каждый раз, когда вы разыгрываете *Дублон. NL hierophant:Сверкающая."
+  },
+  "hierophant:Refuge": {
+    "NAME":"Дать приют",
+    "DESCRIPTION": "Даёт !M! Защиты ВСЕМ, когда вы берёте *Дублон. NL hierophant:Сверкающая."
+  },
+  "hierophant:CursedGold": {
+    "NAME":"Проклятое золото",
+    "DESCRIPTION": "В начале вашего хода, вы кладёте !M! *Дублон из стопки сожжённых карт в стопку сброса. NL hierophant:Сверкающая.",
+    "UPGRADE_DESCRIPTION": "В начале вашего хода, вы кладёте !M! *Дублона из стопки сожжённых карт в стопку сброса. NL hierophant:Сверкающая."
+  },
+  "hierophant:ArchangelShield": {
+    "NAME":"Щит архангела",
+    "DESCRIPTION": "Когда потребляется hierophant:Пылкость, даёт Защиту, равную её пропавшим единицам."
+  },
+  "hierophant:Community": {
+    "NAME":"Общность",
+    "DESCRIPTION": "Когда враги получают Защиту, даёт столько же Защиты.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Когда враги получают Защиту, даёт столько же Защиты."
+  },
+  "hierophant:AuricForm": {
+     "NAME":"Облик ауроманта",
+    "DESCRIPTION": "В начале каждого вашего хода, потребляет !M! % вашего золота, и даёт hierophant:Пылкость и hierophant:Покаяние, равные потраченному золоту."
+  },
+  "hierophant:CoinFling": {
+    "NAME":"Подбросить монетку",
+    "DESCRIPTION": "Вы сбрасываете 1 карту. NL Наносит !D! урона. NL Наносит удвоенный урон, если вы сбросили *Дублон. NL hierophant:Сверкающая."
+  },
+  "hierophant:Batter": {
+    "NAME":"Разгром",
+    "DESCRIPTION": "Наносит !D! урона. NL Если урон был частично или полностью заблокирован, наносит ещё !D! урона."
+  },
+  "hierophant:OrnateJavelin": {
+    "NAME":"Витая алебарда",
+    "DESCRIPTION": "Наносит !D! урона. NL hierophant:Стяжает !M!. NL Сжигается."
+  },
+  "hierophant:Mercenaries": {
+    "NAME":"Наёмники",
+    "DESCRIPTION": "Наносит 1 урона за каждое золото, потраченное в этом ходу. NL hierophant:Оброчная.",
+    "UPGRADE_DESCRIPTION": "Наносит 3 урона за каждые 2 золота, потраченных в этом ходу. NL hierophant:Оброчная.",
+    "EXTENDED_DESCRIPTION": [" NL (Наносит !D! урона.)"]
+  },
+  "hierophant:PassingBell": {
+    "NAME":"Раскатистый гул",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! hierophant:Просвещения."
+  },
+  "hierophant:OrnateBuckler": {
+    "NAME":"Витой баклер",
+    "DESCRIPTION": "Даёт !B! Защиты. NL hierophant:Стяжает !M!."
+  },
+  "hierophant:Remorse": {
+    "NAME":"Раскаяние",
+    "DESCRIPTION": "Наносит !D! урона. NL Наносимый этой картой урон повышается на !M! за каждый *Дублон в стопке сожжённых карт. NL hierophant:Сверкающая."
+  },
+  "hierophant:RepressedViolence": {
+    "NAME":"Скрытая жестокость",
+    "DESCRIPTION": "Наносит !D! урона. NL Эфирная. NL Навсегда повышает наносимый этой картой урон на !M! , когда Сжигается."
+  },
+  "hierophant:FieryStrike": {
+    "NAME":"Жгучий удар",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! hierophant:Пылкости."
+  },
+  "hierophant:SolarFlare": {
+    "NAME":"Солнечная вспышка",
+    "DESCRIPTION": "Даёт Защиту, равную вашей hierophant:Пылкости. NL Наносит !D! урона. NL hierophant:Оброчная."
+  },
+  "hierophant:LocustPlague": {
+    "NAME":"Нашествие саранчи",
+    "DESCRIPTION": "Наносит !D! урона случ. врагу число раз, равное суммарной стоимости карт в руке.",
+    "EXTENDED_DESCRIPTION": [
+       " NL (Наносит урон !M! раз.)",
+       " NL (Наносит урон !M! раз.)"
+    ]
+  },
+  "hierophant:MintersHammer": {
+    "NAME":"Молот чеканщика",
+    "DESCRIPTION": "Навсегда Улучшает все *Дублоны в руке. NL Наносит !D! урона ВСЕМ врагам за каждый улучшенный *Дублон."
+  },
+  "hierophant:WrathOfGod": {
+    "NAME":"Праведный гнев",
+    "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам и его пятую часть ( !M! ) вам. NL hierophant:Оброчная."
+  },
+  "hierophant:Zeal": {
+    "NAME":"Регалия",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт hierophant:Покаяние, равное заблокированному урону."
+  },
+  "hierophant:ThreeLashes": {
+    "NAME":"Три плети",
+    "DESCRIPTION": "Наносит !D! урона три раза. NL Даёт 5 hierophant:Пылкости."
+  },
+  "hierophant:SealAway": {
+    "NAME":"Отгородиться",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! Защиты врагу."
+  },
+  "hierophant:Smite": {
+    "NAME":"Воздаяние",
+    "DESCRIPTION": "Даёт !hierophant:P! hierophant:Покаяния. NL Наносит урон, равный hierophant:Покаянию, полученному в этом ходу.",
+    "UPGRADE_DESCRIPTION": " NL (Наносит !D! урона.)"
+  },	
+  "hierophant:Upheaval": {
+    "NAME":"Потрясение",
+    "DESCRIPTION": "Наносит ВСЕМ врагам урон, равный их удвоенной Защите."
+  },
+  "hierophant:FlamingChariot": {
+    "NAME":"Пылающая колесница",
+    "DESCRIPTION": "Наносит !D! урона. NL Разыгрывание этой карты не потребляет hierophant:Пылкость."
+  },
+  "hierophant:Punish": {
+    "NAME":"Возмездие",
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !hierophant:P! hierophant:Покаяния."
+  },
+  "hierophant:Purify": {
+    "NAME":"Высвободить",
+    "DESCRIPTION": "Восполняет !M! ОЗ врагу. NL Наносит !D! урона. NL hierophant:Оброчная."
+  },
+  "hierophant:Anathema": {
+    "NAME":"Анафема",
+    "DESCRIPTION": "Наносит по 2 урона за каждую единицу hierophant:Покаяния. NL Потребляет всё hierophant:Покаяние.",
+    "UPGRADE_DESCRIPTION": " NL (Наносит !D! урона.)"
+  },
+  "hierophant:Patience": {
+    "NAME":"Терпение",
+    "DESCRIPTION": "Даёт hierophant:Покаяние, равное Защите врага."
+  },
+  "hierophant:Sermon": {
+    "NAME":"Исповедь",
+    "DESCRIPTION": "Накладывает !M! Слабости на ВСЕХ врагов. NL Даёт 6 hierophant:Пылкости."
+  },
+  "hierophant:DeathKnell": {
+    "NAME":"Дурное знамение",
+    "DESCRIPTION": "Ваши атаки не наносят урона в течении 2 ходов. NL Даёт !M! hierophant:Пылкости через 2 хода."
+  },
+  "hierophant:Empathy": {
+    "NAME":"Эмпатия",
+    "DESCRIPTION": "Восполняет 12 ОЗ ВСЕМ врагам. NL Накладывает на них 1 Слабости и 1 Уязвимости за каждые !M! восполненных ОЗ."
+  },
+  "hierophant:EyeForCoin": {
+    "NAME":"Взгляд нумизмата",
+    "DESCRIPTION": "Навсегда добавляет *Дублон в колоду. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Навсегда добавляет Улучшенный *Дублон в колоду. NL Сжигается."
+  },
+  "hierophant:Kindle": {
+    "NAME":"Воспламениться",
+    "DESCRIPTION": "Даёт 1 Силы. NL Даёт 8 hierophant:Пылкости."
+  },
+  "hierophant:Chorus": {
+    "NAME":"Хор",
+    "DESCRIPTION": "Даёт 4 hierophant:Пылкости. NL Удваивает вашу hierophant:Пылкость. NL Сжигается.",
+    "UPGRADE_DESCRIPTION":"Даёт 4 hierophant:Пылкости. NL Удваивает вашу hierophant:Пылкость."
+  },
+  "hierophant:Exaltation": {
+    "NAME":"Лучезарность",
+    "DESCRIPTION": "Даёт hierophant:Покаяние, равное вашей hierophant:Пылкости и hierophant:Пылкость, равную вашему hierophant:Покаянию."
+  },
+  "hierophant:AuricBeam": {
+    "NAME":"Ауролуч",
+    "DESCRIPTION": "Потребляет 10% вашего золота. NL Наносит урон, равный потраченному золоту.",
+    "UPGRADE_DESCRIPTION": " NL (Наносит !D! урона.)"
+  },
+  "hierophant:AuricShield": {
+    "NAME":"Аурощит",
+    "DESCRIPTION": "Потребляет !M! % вашего золота. NL Даёт Защиту, равную потраченному золоту.",
+    "EXTENDED_DESCRIPTION": [
+       " NL (Даёт !B! Защиты.)"
+    ]
+  },
+  "hierophant:Determination": {
+    "NAME":"Решительность",
+    "DESCRIPTION": "Когда вы побеждаете врага, восполняет вам треть его остающихся ОЗ."
+  },
+  "hierophant:DisplayOfPower": {
+    "NAME":"Манифестировать",
+    "DESCRIPTION": "Вы кладёте карту из руки на верх стопки добора. NL Наносит !D! урона за каждую единицу её стоимости."
+  }
+}
